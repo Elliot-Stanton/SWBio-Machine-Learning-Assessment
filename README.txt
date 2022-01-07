@@ -3,11 +3,17 @@ Tick Densities and Lyme Disease Prevalence in the Scottish Outer Hebrides:
 This python script enables basic data analysis and the generation of heatmaps through the google maps platform for epidemiological data in which coordinate data is available. The example data provided is available within the supplementary information section of: Millins, C., Leo, W., MacInnes, I., Ferguson, J., Charlesworth, G., Nayar, D., Davison, R., Yardley, J., Kilbride, E., Huntley, S. and Gilbert, L., 2021. Emergence of Lyme disease on treeless islands in Scotland, UK. Emerging Infectious Diseases, 27(2), pp.538-546.
 
 This script has two main sections: 
+
 An initial section which performs some basic data analysis and visualisation in the form of a linear regression model and boxplot diagram. T
 The second section can be used to generate google maps heatmaps and generate random points at which data collection can be performed, prior to also mapping these points. 
 
 The script can be edited in a number of ways to:
-perform more complex da
+
+perform more complex data analyss. 
+Plot different epidemiological data. 
+Generate sample sites in alternative manners. 
+
+Bbefore running:
 
 Ensure that the following packages available natively within anaconda are installed: 
 
