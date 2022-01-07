@@ -1,0 +1,76 @@
+LD incidence,Island*,Habitat,Year,Longitude,Latitude,TNC,NP1M,NT,Prevalence
+Low,S. Harris,I. grassland,2018,57.8229,-7.04121,100,32.5,100,0
+Low,S. Harris,I. grassland,2019,57.8033,-6.76844,190,20,50,2
+Low,S. Harris,I. grassland,2019,57.8599,-6.97867,1,0,NA,NA
+Low,S. Harris,I. grassland,2019,57.83909,-6.75505,6,0,NA,NA
+Low,S. Harris,H. moorland,2018,57.76642,-6.99558,100,10.5,100,0
+Low,S. Harris,H. moorland,2019,57.85464,-6.7791,9,1,NA,NA
+Low,S. Harris,H. moorland,2019,57.85119,-6.96178,21,1,NA,NA
+Low,S. Harris,H. moorland,2019,57.81542,-6.92514,1,0,NA,NA
+Low,Barra,I. grassland,2018,57.00991,-7.49054,98,5.5,98,0
+Low,Barra,I. grassland,2019,56.98296,-7.50262,1,0.5,NA,NA
+Low,Barra,I. grassland,2019,56.99873,-7.49991,1,0,NA,NA
+Low,Barra,I. grassland,2019,57.04221,-7.4273,1,0,NA,NA
+Low,Barra,H. moorland,2018,57.01508,-7.45006,110,6,100,0
+Low,Barra,H. moorland,2019,56.96077,-7.51683,59,4.5,54,0
+Low,Barra,H. moorland,2019,56.97012,-7.50559,137,8.5,57,0
+Low,Barra,H. moorland,2019,56.97535,-7.42723,84,2,50,6
+High,N. Uist,I. grassland,2018,57.64579,-7.2785,18,1,NA,NA
+High,N. Uist,I. grassland,2018,57.59542,-7.37803,59,44.5,50,18
+High,N. Uist,I. grassland,2018,57.55027,-7.27865,51,17,50,2
+High,N. Uist,I. grassland,2018,57.55679,-7.36161,52,1.5,49,6.12
+High,N. Uist,H. moorland,2018,57.64992,-7.47042,52,17,50,4
+High,N. Uist,H. moorland,2018,57.56901,-7.28658,15,0,NA,NA
+High,N. Uist,H. moorland,2018,57.57699,-7.35361,57,48,50,14
+High,N. Uist,H. moorland,2018,57.62612,-7.20569,76,4,76,5.26
+High,Benb.,I. grassland,2018,57.41507,-7.30903,9,1,NA,NA
+High,Benb.,I. grassland,2018,57.42847,-7.35645,23,2.5,NA,NA
+High,Benb.,H. moorland,2018,57.43784,-7.36701,51,12,50,2
+High,Benb.,H. moorland,2018,57.46292,-7.2977,20,2,20,NA
+High,S. Uist,I. grassland,2018,57.39698,-7.34315,9,0.5,NA,NA
+High,S. Uist,I. grassland,2018,57.33157,-7.36658,0,0,NA,NA
+High,S. Uist,I. grassland,2018,57.27389,-7.39276,76,10,58,12.07
+High,S. Uist,I. grassland,2018,57.19942,-7.40313,76,10.5,50,4
+High,S. Uist,I. grassland,2018,57.16089,-7.30559,251,58.5,77,9.09
+High,S. Uist,I. grassland,2018,57.12438,-7.37993,35,2,NA,NA
+High,S. Uist,H. moorland,2018,57.30218,-7.35176,53,34,50,6
+High,S. Uist,H. moorland,2018,57.23865,-7.32935,50,31.5,50,0
+High,S. Uist,H. moorland,2018,57.23901,-7.36996,55,6.5,50,10
+High,S. Uist,H. moorland,2018,57.13368,-7.34022,50,7,50,2
+High,S. Uist,H. moorland,2018,57.2632,-7.27952,50,36,50,2
+High,S. Uist,H. moorland,2018,57.33028,-7.30772,76,69,76,5.26
+High,S. Uist,H. moorland,2018,57.33718,-7.35609,25,2.5,NA,NA
+High,S. Uist,H. moorland,2018,57.1375,-7.29402,9,0.5,NA,NA
+High,N. Uist,"Bog,peatland",2018,57.61533,-7.20634,51,1.5,50,2
+High,N. Uist,"Bog,peatland",2018,57.6404,-7.42523,56,4.5,50,14
+High,N. Uist,"Bog,peatland",2018,57.57971,-7.24579,21,1.5,NA,NA
+High,N. Uist,"Bog,peatland",2018,57.53646,-7.31195,50,15,50,0
+High,N. Uist,Garden,2018,sector 2,,13,6.5,NA,NA
+High,N. Uist,Garden,2018,sector 3,,11,5.5,NA,NA
+High,N. Uist,Garden,2018,sector 4,,20,10,NA,NA
+High,N. Uist,Garden,2018,sector 5,,2,1,NA,NA
+High,N. Uist,Machair,2018,57.66823,-7.24728,0,0,NA,NA
+High,N. Uist,Machair,2018,57.59891,-7.52762,0,0,NA,NA
+High,N. Uist,Machair,2018,57.57246,-7.47268,0,0,NA,NA
+High,Benb.,"Bog,peatland",2018,57.46696,-7.33463,18,1,NA,NA
+High,Benb.,Garden,2018,sector 7,,11,5.5,NA,NA
+High,Benb.,Machair,2018,57.42549,-7.37725,0,0,NA,NA
+High,S. Uist,"Bog,peatland",2018,57.32618,-7.27926,50,4.5,50,0
+High,S. Uist,"Bog,peatland",2018,57.24386,-7.32181,59,10,50,18
+High,S. Uist,"Bog,peatland",2018,57.12952,-7.30258,36,2.5,NA,NA
+High,S. Uist,"Bog,peatland",2018,57.15575,-7.37453,50,2.5,50,0
+High,S. Uist,"Bog,peatland",2018,57.34627,-7.26833,76,8.5,50,0
+High,S. Uist,"Bog,peatland",2018,57.24486,-7.35349,270,15,50,10
+High,S. Uist,"Bog,peatland",2018,57.34174,-7.34557,32,1.5,NA,NA
+High,S. Uist,"Bog,peatland",2018,57.27817,-7.37005,4,0,NA,NA
+High,S. Uist,Garden,2018,sector 8,,3,1.5,NA,NA
+High,S. Uist,Garden,2018,sector 9,,64,12.5,50,6
+High,S. Uist,Garden,2018,sector 11,,193,32.5,50,14
+High,S. Uist,Garden,2018,sector 12,,100,17.5,56,1.79
+High,S. Uist,Garden,2018,sector 13,,16,4,NA,NA
+High,S. Uist,Garden,2018,sector 14,,73,36.5,49,16.33
+High,S. Uist,Garden,2018,sector 15,,6,2.5,NA,NA
+High,S. Uist,Machair,2018,57.35096,-7.39092,2,1,NA,NA
+High,S. Uist,Machair,2018,57.30452,-7.39269,0,0,NA,NA
+High,S. Uist,Machair,2018,57.24395,-7.42612,6,1,NA,NA
+High,S. Uist,Machair,2018,57.15629,-7.40349,0,0,NA,NA
